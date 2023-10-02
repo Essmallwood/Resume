@@ -17,7 +17,7 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 **React Developer - Intern**, JPMorgan Chase & Co. | Remote | *July 2022 - Jan 2023*
 * Developed and maintained user interfaces for web applications using React.
 * Collaborated with product managers and back-end developers to define project requirements and specifications.
-* Performed above expection and got converted to a consultant position on the same team
+* Performed above expection and got converted to a consultant position on the same team.
 
 ## Projects
 **Sentiment-Driven Visualization**
@@ -29,24 +29,24 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 
 **Literary Quote Automato**
 * **Developed Using Python and Tweepy**
-* **Objective**: Disseminate a collection of book quotes stored in a text file
-* Utilized the Twitter API
+* **Objective**: Disseminate a collection of book quotes stored in a text file.
+* Utilized the Twitter API.
   
 ## Education
-**Year-Up**, Software Development 
-*Year Up is a year-long intensive career development bootcamp with 250 corporate partners,college-level courses, and professional training.*
+**Year-Up**, Software Development Bootcamp
+* *Description: Year Up is a year-long intensive career development bootcamp with 250 corporate partners, college-level courses, and professional training.*
 * Collaborated with a dynamic team of developers to create, test, and deploy web applications, gaining hands-on experience in application development and coding best practices.
 * Worked with Java, JavaScript, SQL, React.js and HTML/CSS to build user-friendly interfaces, implemented feature which contributed to the successful delivery of software projects.
 * Earned an internship for a React Developer at JPMorgan Chase & Co. 
 
 **Delaware Technical Community College**, Computing and Information Science - A.S
-* Designed and implemented moderate to complex programs that met specifications, performed with high reliability, and were maintainable using the principles of software engineering
-* Recipient of Dean’s List Abcademic Achievement Award
+* Designed and implemented moderate to complex programs that met specifications, performed with high reliability, and were maintainable using the principles of software engineering.
+* Recipient of Dean’s List Abcademic Achievement Award.
 
 ## LEADERSHIP EXPERIENCE
 **Phi Theta Kappa Honor Society - AZK Chapter**
-* Team Lead for Honors in Action Project
-* Chapter placed in the top 10 of 80 regional chapters for Honors in Action podcast, “How Student Needs Informed Delaware Tech’s Response to the COVID-19 Pandemic”
+* Team Lead for Honors in Action Project.
+* Chapter placed in the top 10 of 80 regional chapters for Honors in Action podcast, “How Student Needs Informed Delaware Tech’s Response to the COVID-19 Pandemic”.
   
 **Campus Judicial Committee**     
 * Appointed by the Student Government Leader to participate in the Judicial Committee.
@@ -58,4 +58,4 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 * Facilitated the partnership between Phi Theta Kappa to create the Honors in Action podcast.
 
 ## Interests
-Pumpkin Carving, Volleyball, Drawing, Piano, Attempting to Solve Rubik's Cubes
+Pumpkin Carving · Volleyball · Drawing · Piano · Attempting to Solve Rubik's Cubes
