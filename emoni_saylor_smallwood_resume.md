@@ -17,6 +17,7 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 **React Developer - Intern**, JPMorgan Chase & Co. | Remote | *July 2022 - Jan 2023*
 * Developed and maintained user interfaces for web applications using React.
 * Collaborated with product managers and back-end developers to define project requirements and specifications.
+* Converted to a consultant on the same team
 
 ## Projects
 **Sentiment-Driven Visualization**
@@ -32,14 +33,15 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 * Utilized the Twitter API
   
 ## Education
-**Year-Up** | Software Development |
+**Year-Up**, Software Development 
 *Year Up is a year-long intensive career development bootcamp with 250 corporate partners,college-level courses, and professional training.*
 * Collaborated with a dynamic team of developers to create, test, and deploy web applications, gaining hands-on experience in application development and coding best practices.
 * Worked with Java, JavaScript, SQL, React.js and HTML/CSS to build user-friendly interfaces, implemented feature which contributed to the successful delivery of software projects.
-  
-**Western Governors University**, Cybersecurity and Information Assurance - B.S
-* Learned best practices in systems and services, networking and security, scripting and programming, data management, and the business of IT security.
-* Acquired the knowledge that addresses the laws, regulations, authorities, and directives that inform the development of operational policies, best practices, and training to assure legal compliance and to minimize internal and external threats.
+* Earned an internship for a React Developer at JPMorgan Chase & Co. 
+
+**Delaware Technical Community College**, Computing and Information Science - A.S
+* Designed and implemented moderate to complex programs that met specifications, performed with high reliability, and were maintainable using the principles of software engineering
+* Recipient of Dean’s List Abcademic Achievement Award
 
 ## Interests
 Pumpkin Carving, Volleyball, Drawing, Piano, Attempting to Solve Rubik's Cubes
