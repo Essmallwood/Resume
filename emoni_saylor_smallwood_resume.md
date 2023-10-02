@@ -17,7 +17,7 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 **React Developer - Intern**, JPMorgan Chase & Co. | Remote | *July 2022 - Jan 2023*
 * Developed and maintained user interfaces for web applications using React.
 * Collaborated with product managers and back-end developers to define project requirements and specifications.
-* Converted to a consultant on the same team
+* Performed above expection and got converted to a consultant position on the same team
 
 ## Projects
 **Sentiment-Driven Visualization**
@@ -42,6 +42,20 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 **Delaware Technical Community College**, Computing and Information Science - A.S
 * Designed and implemented moderate to complex programs that met specifications, performed with high reliability, and were maintainable using the principles of software engineering
 * Recipient of Dean’s List Abcademic Achievement Award
+
+##LEADERSHIP EXPERIENCE
+**Phi Theta Kappa Honor Society - AZK Chapter**
+* Team Lead for Honors in Action Project
+* Chapter placed in the top 10 of 80 regional chapters for Honors in Action podcast, “How Student Needs Informed Delaware Tech’s Response to the COVID-19 Pandemic”
+  
+**Campus Judicial Committee**     
+* Appointed by the Student Government Leader to participate in the Judicial Committee.
+* Attended hearings as the Campus Judicial Committee Representative to sit in and weigh in on cases that were in violation of student misconduct.
+* Helped the committee come to an appropriate course of action based on the testimony and evidence presented at the hearings.
+  
+**Four Peas in A Pod Podcast**
+* Co-host and editor for the podcast.
+* Facilitated the partnership between Phi Theta Kappa to create the Honors in Action podcast.
 
 ## Interests
 Pumpkin Carving, Volleyball, Drawing, Piano, Attempting to Solve Rubik's Cubes
