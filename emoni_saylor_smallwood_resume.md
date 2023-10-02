@@ -43,7 +43,7 @@ Apache Flink · React.js · Java · Splunk · Amazon Web Services (AWS) · Regex
 * Designed and implemented moderate to complex programs that met specifications, performed with high reliability, and were maintainable using the principles of software engineering
 * Recipient of Dean’s List Abcademic Achievement Award
 
-##LEADERSHIP EXPERIENCE
+## LEADERSHIP EXPERIENCE
 **Phi Theta Kappa Honor Society - AZK Chapter**
 * Team Lead for Honors in Action Project
 * Chapter placed in the top 10 of 80 regional chapters for Honors in Action podcast, “How Student Needs Informed Delaware Tech’s Response to the COVID-19 Pandemic”
